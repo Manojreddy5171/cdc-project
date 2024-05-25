@@ -1,4 +1,4 @@
-It is a group project done eith in a time span of 24 hours
+It is a group project done with in a time span of 24 hours
 
 Teammates:
 
