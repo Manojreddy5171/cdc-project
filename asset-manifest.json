@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cdc-project/static/css/main.8ded44f2.css",
-    "main.js": "/cdc-project/static/js/main.a740df69.js",
+    "main.js": "/cdc-project/static/js/main.cc8703dd.js",
     "static/js/453.626e39e7.chunk.js": "/cdc-project/static/js/453.626e39e7.chunk.js",
     "static/media/manu.jpeg": "/cdc-project/static/media/manu.7f7ce52067411aa45ef4.jpeg",
     "static/media/20230510_202155.jpg": "/cdc-project/static/media/20230510_202155.01e30f541ce5581d96c2.jpg",
@@ -34,11 +34,11 @@
     "static/media/bgimg1.webp": "/cdc-project/static/media/bgimg1.e6b9272475994bcc8977.webp",
     "index.html": "/cdc-project/index.html",
     "main.8ded44f2.css.map": "/cdc-project/static/css/main.8ded44f2.css.map",
-    "main.a740df69.js.map": "/cdc-project/static/js/main.a740df69.js.map",
+    "main.cc8703dd.js.map": "/cdc-project/static/js/main.cc8703dd.js.map",
     "453.626e39e7.chunk.js.map": "/cdc-project/static/js/453.626e39e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ded44f2.css",
-    "static/js/main.a740df69.js"
+    "static/js/main.cc8703dd.js"
   ]
 }
