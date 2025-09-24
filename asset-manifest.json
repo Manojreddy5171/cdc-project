@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cdc-project/static/css/main.2acdc5a0.css",
-    "main.js": "/cdc-project/static/js/main.d3cc13fe.js",
+    "main.js": "/cdc-project/static/js/main.9a70bfb1.js",
     "static/js/453.bb2071d4.chunk.js": "/cdc-project/static/js/453.bb2071d4.chunk.js",
     "static/media/manoj.jpeg": "/cdc-project/static/media/manoj.7f7ce52067411aa45ef4.jpeg",
     "static/media/background-college.jpg": "/cdc-project/static/media/background-college.01e30f541ce5581d96c2.jpg",
@@ -32,11 +32,11 @@
     "static/media/bgimg1.webp": "/cdc-project/static/media/bgimg1.e6b9272475994bcc8977.webp",
     "index.html": "/cdc-project/index.html",
     "main.2acdc5a0.css.map": "/cdc-project/static/css/main.2acdc5a0.css.map",
-    "main.d3cc13fe.js.map": "/cdc-project/static/js/main.d3cc13fe.js.map",
+    "main.9a70bfb1.js.map": "/cdc-project/static/js/main.9a70bfb1.js.map",
     "453.bb2071d4.chunk.js.map": "/cdc-project/static/js/453.bb2071d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2acdc5a0.css",
-    "static/js/main.d3cc13fe.js"
+    "static/js/main.9a70bfb1.js"
   ]
 }
