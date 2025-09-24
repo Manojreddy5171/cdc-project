@@ -6,7 +6,7 @@ This project is a full-stack web application built for a college's Career Develo
 
 Developed during a 24-hour ReactJS Hackathon, with backend features added later to enable dynamic functionality.
 
-🔑 Key Features
+🔑 **Key Features**
 Public-Facing Pages
 
 Home: Welcome page with a clean design and team member profiles.
@@ -27,37 +27,27 @@ CRUD operations (Create, Read, Update, Delete) for all public sections.
 
 Robust role-based access for administrators.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Frontend
-
-React.js
-
-React Router
-
-Axios
-
-React Icons
+  React.js
+  React Router
+  Axios
+  React Icons
 
 Backend
-
-Node.js & Express.js
-
-MongoDB & Mongoose
-
-JWT & bcrypt.js
+  Node.js & Express.js
+  MongoDB & Mongoose
+  JWT & bcrypt.js
 
 Deployment
-
-GitHub Pages (Frontend)
-
-Render (Backend)
-
-MongoDB Atlas (Cloud Database)
+  GitHub Pages (Frontend)
+  Render (Backend)
+  MongoDB Atlas (Cloud Database)
 
 
 
-⚙️ Getting Started (Local Development)
+**Getting Started (Local Development)**
 
 Clone the Repositories
 
@@ -102,7 +92,7 @@ cd cdc-project && npm start
 Visit http://localhost:3000
  in your browser.
 
-🚀 Deployment
+**Deployment**
 
 Frontend: Deployed on GitHub Pages using npm run deploy.
 
@@ -110,7 +100,7 @@ Backend: Deployed on Render with environment variables.
 
 Database: Hosted on MongoDB Atlas.
 
-👨‍💻 Authors
+**Authors**
 
 Ch. Manoj Reddy – Lead Developer
 
