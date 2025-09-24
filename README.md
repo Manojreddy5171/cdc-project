@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+Career Development Cell (CDC) Web Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Live Demo:** https://manojreddy5171.github.io/cdc-project/
 
-## Available Scripts
+This project is a full-stack web application built for a college's Career Development Cell (CDC). The platform provides students with a user-friendly and responsive interface to access career resources, placements, achievements, and workshop updates. It also includes a secure admin dashboard for authorized users to manage all website content dynamically.
 
-In the project directory, you can run:
+Developed during a 24-hour ReactJS Hackathon, with backend features added later to enable dynamic functionality.
 
-### `npm start`
+🔑 **Key Features**
+Public-Facing Pages
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Home: Welcome page with a clean design and team member profiles.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+About Us: CDC’s mission, vision, and services.
 
-### `npm test`
+Internships, Placements, Achievements, Workshops: Dynamic pages fetching real-time data.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contact Us: Contact form with embedded map.
 
-### `npm run build`
+Developers: Interactive showcase of the project team.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Admin Dashboard
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Secure login with JWT authentication.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+CRUD operations (Create, Read, Update, Delete) for all public sections.
 
-### `npm run eject`
+Robust role-based access for administrators.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**🛠️ Tech Stack**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Frontend
+  React.js
+  React Router
+  Axios
+  React Icons
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Backend
+  Node.js & Express.js
+  MongoDB & Mongoose
+  JWT & bcrypt.js
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Deployment
+  GitHub Pages (Frontend)
+  Render (Backend)
+  MongoDB Atlas (Cloud Database)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Getting Started (Local Development)**
 
-### Code Splitting
+Clone the Repositories
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Frontend
+git clone https://github.com/Manojreddy5171/cdc-project.git  
 
-### Analyzing the Bundle Size
+# Backend
+git clone https://github.com/Manojreddy5171/cdc-backend.git  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Install Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+cd cdc-project && npm install  
+cd ../cdc-backend && npm install  
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Set Up Environment Variables
 
-### Deployment
+In cdc-project/.env:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+REACT_APP_API_URL=http://localhost:5000
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In cdc-backend/.env:
+
+MONGODB_URI=mongodb://localhost:27017/career_development_cell
+JWT_SECRET=your_jwt_secret_key
+
+
+Run the Servers
+
+# Start MongoDB
+mongod  
+
+# Start backend
+cd cdc-backend && node server.js  
+
+# Start frontend
+cd cdc-project && npm start  
+
+
+Visit http://localhost:3000
+ in your browser.
+
+**Deployment**
+
+Frontend: Deployed on GitHub Pages using npm run deploy.
+
+Backend: Deployed on Render with environment variables.
+
+Database: Hosted on MongoDB Atlas.
+
+**Authors**
+
+Ch. Manoj Reddy – Lead Developer
+
+M. Lakshmi Prasanna – Frontend Developer
+
+N. Harnitha – Backend Developer & Database Architect
+
+K. Yaswanth – Frontend Developer & API Integration
+
+U. Shiva Raj Kumar – Systems Architect & Security Specialist
