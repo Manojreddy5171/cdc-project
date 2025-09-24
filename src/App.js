@@ -124,45 +124,45 @@ function App() {
             <div className="footer-col">
               <h4>ABOUT US</h4>
               <ul>
-                <li>Genesis</li>
-                <li>Quality Policy</li>
-                <li>Vision & Mission</li>
-                <li>Message</li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Genesis</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Quality Policy</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Vision & Mission</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Message</a></li>
               </ul>
             </div>
             <div className="footer-col">
               <h4>DEPARTMENTS</h4>
-              <ul>
-                <li>CSE</li>
-                <li>CSE Design</li>
-                <li>CSE DataScience</li>
-                <li>Artificial Intelligence</li>
+               <ul>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">CSE</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">CSE Design</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">CSE DataScience</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Artificial Intelligence</a></li>
               </ul>
             </div>
             <div className="footer-col">
               <h4>FACILITIES</h4>
               <ul>
-                <li>Infrastructure</li>
-                <li>Auditorium</li>
-                <li>Library</li>
-                <li>Sports</li>
+                <li><a href="https://www.srecnandyal.edu.in/Courses_Offer.php" target="_blank" rel="noopener noreferrer">Infrastructure</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Auditorium</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/Policy/Library%20Policy.pdf#toolbar=0" target="_blank" rel="noopener noreferrer">Library</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/" target="_blank" rel="noopener noreferrer">Sports</a></li>
               </ul>
             </div>
             <div className="footer-col">
               <h4>GALLERY</h4>
               <ul>
-                <li>Infrastructure</li>
-                <li>Events</li>
-                <li>Visit Our Campus</li>
+                <li><a href="https://www.srecnandyal.edu.in/About-Us.php" target="_blank" rel="noopener noreferrer">Infrastructure</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/About-Us.php" target="_blank" rel="noopener noreferrer">Events</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/About-Us.php" target="_blank" rel="noopener noreferrer">Visit Our Campus</a></li>
               </ul>
             </div>
             <div className="footer-col">
               <h4>OTHERS</h4>
               <ul>
-                <li>Rank Holders</li>
-                <li>Careers</li>
-                <li>NAAC</li>
-                <li>NCC</li>
+                <li><a href="https://www.srecnandyal.edu.in/Alumni.php" target="_blank" rel="noopener noreferrer">Rank Holders</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/srec" target="_blank" rel="noopener noreferrer">Careers</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/Affiliation_Accreditation.php" target="_blank" rel="noopener noreferrer">NAAC</a></li>
+                <li><a href="https://www.srecnandyal.edu.in/Affiliation_Accreditation.php" target="_blank" rel="noopener noreferrer">JNTUA</a></li>
               </ul>
             </div>
           </div>
@@ -172,10 +172,10 @@ function App() {
             <div className="social-media">
               <p>Follow Us on Social Media</p>
               <ul>
-                <li>Insta</li>
-                <li>Facebook</li>
-                <li>Twitter</li>
-                <li>YouTube</li>
+                <li><a href="https://www.instagram.com/srecndl/" target="_blank" rel="insta srecndl">Insta</a></li>
+                <li><a href="https://www.facebook.com/162397646957220?ref=_xav_ig_profile_page_web" target="_blank" rel="facebook">Facebook</a></li>
+                <li><a href="https://twitter.com" target="_blank" rel="twitter">Twitter</a></li>
+                <li><a href="https://www.youtube.com/@santhiramengineeringcolleg7561" target="_blank" rel="youtube">YouTube</a></li>
               </ul>
             </div>
           </div>
