@@ -1,6 +1,6 @@
 Career Development Cell (CDC) Web Application
 
-Live Demo: View Here
+**Live Demo:** https://manojreddy5171.github.io/cdc-project/
 
 This project is a full-stack web application built for a college's Career Development Cell (CDC). The platform provides students with a user-friendly and responsive interface to access career resources, placements, achievements, and workshop updates. It also includes a secure admin dashboard for authorized users to manage all website content dynamically.
 
