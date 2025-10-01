@@ -127,7 +127,7 @@ body {
     height: 600px; /* Adjust height as needed to fit content */
     background-image: url('background-college.jpg'); /* Or the imported variable */
     background-size: cover;
-    background-position: fill;
+    background-position: center;
     position: relative; 
     /* Center the child content (the team grid) */
     display: flex;
